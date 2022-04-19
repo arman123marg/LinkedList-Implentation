@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\LLInitialisation\LLInitialisation\bin\Debug\LLInitialisation.exe.config
+C:\Users\LENOVO\source\repos\LLInitialisation\LLInitialisation\bin\Debug\LLInitialisation.exe
+C:\Users\LENOVO\source\repos\LLInitialisation\LLInitialisation\bin\Debug\LLInitialisation.pdb
+C:\Users\LENOVO\source\repos\LLInitialisation\LLInitialisation\obj\Debug\LLInitialisation.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\LLInitialisation\LLInitialisation\obj\Debug\LLInitialisation.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\LLInitialisation\LLInitialisation\obj\Debug\LLInitialisation.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\LLInitialisation\LLInitialisation\obj\Debug\LLInitialisation.exe
+C:\Users\LENOVO\source\repos\LLInitialisation\LLInitialisation\obj\Debug\LLInitialisation.pdb
